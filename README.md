@@ -12,7 +12,7 @@ The project is written in two programming languages: ___python___ and ___bash.__
 All functionality is suitable for ___Linux OS.___
 
 To start the project, you need to download all the files from this repository, 
-except readme.md, and move these files to some folder on your computer.
+except README.md, and move these files to some folder on your computer.
 
 ### To run a bash program:
 **1.**  open a terminal in the folder with files downloaded from the repository
