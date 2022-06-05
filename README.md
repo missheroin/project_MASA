@@ -15,23 +15,25 @@ To start the project, you need to download all the files from this repository,
 except README.md, and move these files to some folder on your computer.
 
 ### To run a bash program:
-**1.**  open a terminal in the folder with files downloaded from the repository
-**2.**  write the following command in the terminal:
+**1.**  Open a terminal in the folder with files downloaded from the repository.  
+**2.**  Write the following command in the terminal:
 *       chmode +x bash.sh
-**3.**  after that, write the command to start the program:
+**3.**  After that, write the command to start the program:
 *       ./bash.sh
 Ready!
 
 ### To run a python program:
-**1.**  open a terminal in the folder with files downloaded from the repository
-**2.**  make sure you have python version 3 or higher installed
+**1.**  Open a terminal in the folder with files downloaded from the repository.  
+
+**2.**  Make sure you have python version 3 or higher installed
 * To do this, enter this command in the terminal:
 *       python3 --version
-* if you do not have python installed, enter this command and wait for it to complete:
+* If you do not have python installed, enter this command and wait for it to complete:
 *       sudo apt update
-* after that, we enter another command and wait for the installation of the python:
+* After that, we enter another command and wait for the installation of the python:
 *       sudo apt install python3.9
 * We check the version, if python version 3 and higher is shown, then we can run our program.
+
 **3.** To do this, use the following command in the terminal:
 *       python3 python.py
 Ready!
