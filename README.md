@@ -1,1 +1,37 @@
-# project_MASA
+# Project MASA 
+# Multifunctional Assistant for the work of the System Administrator.
+
+## This is a project that will help simplify the work of a system administrator.
+
+Its abilities are represented by **three** functions:
+* displaying information about the computer and its OS
+* hashing the data in the selected file
+* copying specific files to a new directory
+
+The project is written in two programming languages: ___python___ and ___bash.___ 
+All functionality is suitable for ___Linux OS.___
+
+To start the project, you need to download all the files from this repository, 
+except readme.md, and move these files to some folder on your computer.
+
+### To run a bash program:
+**1.**  open a terminal in the folder with files downloaded from the repository
+**2.**  write the following command in the terminal:
+*       chmode +x bash.sh
+**3.**  after that, write the command to start the program:
+*       ./bash.sh
+Ready!
+
+### To run a python program:
+**1.**  open a terminal in the folder with files downloaded from the repository
+**2.**  make sure you have python version 3 or higher installed
+* To do this, enter this command in the terminal:
+*       python3 --version
+* if you do not have python installed, enter this command and wait for it to complete:
+*       sudo apt update
+* after that, we enter another command and wait for the installation of the python:
+*       sudo apt install python3.9
+* We check the version, if python version 3 and higher is shown, then we can run our program.
+**3.** To do this, use the following command in the terminal:
+*       python3 python.py
+Ready!
