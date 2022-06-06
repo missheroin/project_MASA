@@ -17,7 +17,7 @@ except README.md, and move these files to some folder on your computer.
 ### To run a bash program:
 **1.**  Open a terminal in the folder with files downloaded from the repository.  
 **2.**  Write the following command in the terminal:
-*       chmode +x bash.sh
+*       chmod +x bash.sh
 **3.**  After that, write the command to start the program:
 *       ./bash.sh
 Ready!
